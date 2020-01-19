@@ -54,7 +54,7 @@ const char *STR_FI[] = { "Suomi"
     , "Statsit"
     , "Laran Koti"
     , "Grafiikka"
-    , "~A~Anet"
+    , "~A~anet"
     , "N~app~aimet"
     , "Gamma"
 // passport menu
